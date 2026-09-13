@@ -1,4 +1,6 @@
 # QQ
+详细文档地址:https://qicq.18years.ink/
+
 QQ开放平台接口
 
 common为公共库 new为新版平台接口 old为旧版平台接口 没有的可以联系我 不定时更新 QQ:2036513862
